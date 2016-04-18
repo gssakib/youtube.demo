@@ -9,3 +9,4 @@ function res = generator(low, high)
 %high --- higher range of the generated number.
 
 res = low + (high - low).* rand(1);
+%more code yay!!
